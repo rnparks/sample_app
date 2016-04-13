@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'ryan_pages/jobs'
+
+  get 'ryan_pages/money'
+
   get 'static_pages/home'
   get 'static_pages/help'
 
