@@ -17,6 +17,7 @@ gem 'httparty'
 gem 'rubyzip'
 gem 'awesome_print', '~> 1.6', '>= 1.6.1'
 gem 'pry'
+gem 'bootstrap-sass'
 
 
 group :development, :test do
